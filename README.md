@@ -21,5 +21,6 @@
 <img src="https://img.shields.io/badge/Oracle-#F80000?style=flat&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-#2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-#2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Eclipse IDE-#2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 

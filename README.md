@@ -16,4 +16,5 @@
 ***
 
 
-# 내역할
+# 기술 및 도구
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
